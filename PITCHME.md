@@ -4,19 +4,19 @@
 
 ---
 
-## Bor
+## Housekeeping
 
 <br>
 
-@fa[creative-commons gp-tip](This presentation is licensed CC-BY-SA)
+@fa[creative-commons gp-tip](License CC-BY-SA)
 
-@fa[microphone gp-tip](Press S for Speaker Notes)
+@fa[link gp-tip](https://bit.ly/fdshort)
 
 ---
 
-## Template Features
+## Needed Volunteers
 
-- Code Presenting |
+-  |
 - Repo Source, Static Blocks, GIST |
 - Custom CSS Styling |
 - Slideshow Background Image |
