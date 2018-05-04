@@ -8,7 +8,7 @@
 
 <br>
 
-@fa[microphone gp-tip](fdsg)
+@fa[creative-commons gp-tip](This presentation is licensed CC-BY-SA)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
