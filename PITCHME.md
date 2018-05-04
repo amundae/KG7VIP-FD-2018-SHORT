@@ -8,7 +8,7 @@
 
 <br>
 
-@fa[creative-commons-by gp-tip][creative-commons-sa gp-tip](Press F to go Fullscreen)
+@fa[creative-commons-by gp-tip]@fa[creative-commons-sa gp-tip](Press F to go Fullscreen)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
