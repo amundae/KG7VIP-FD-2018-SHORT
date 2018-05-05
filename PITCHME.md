@@ -13,7 +13,11 @@
 @fa[link gp-tip](https://bit.ly/fdshort)
 
 ---
-
+### June 22-24
+### SEH America
+### 3900 NE 112th Avenue
+### Vancouver, Washington
+---
 ## Needed Volunteers
 
 - Operating |
