@@ -21,19 +21,48 @@
 - @fa[cheveron-right] Setup/Teardown |
 
 ---
+## Friday
 
+<table>
+  <tr>
+    <td>9 AM</td>
+    <td>Equipment Volunteers meet at site</td>
+  </tr>
+  <tr class="fragment">
+    <td>10 AM</td>
+    <td>Setup Volunteers meet at site</td>
+  </tr>
+  <tr class="fragment">
+    <td>7-8 PM</td>
+    <td>Ice Cream Social</td>
+  </tr>
+  <tr class="fragment">
+    <td>8PM</td>
+    <td>Start of first security shift</td>
+  </tr>
+</table>
 
 ---
 
-## Template Help
-
-- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides)
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting) [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents) [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
-
+## Saturday
+<table>
+  <tr>
+    <td>11 AM</td>
+    <td>Official Radio Operations begin</td>
+  </tr>
+  <tr class="fragment">
+    <td>11 AM - 4PM</td>
+    <td>GOTA Station Active</td>
+  </tr>
+  <tr class="fragment">
+    <td>Noon - 4 PM</td>
+    <td>Info & Agency tents open, site officially open to the public</td>
+  </tr>
+  <tr class="fragment">
+    <td>~1 PM - ~4 PM</td>
+    <td>Seminars ongoing, incl Introduction to ARES/RACES, Mobile Radio Installation, and more to come</td>
+  </tr>
+</table>
 ---
 
 ## Go GitPitch Pro!
