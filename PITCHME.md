@@ -16,10 +16,9 @@
 
 ## Needed Volunteers
 
-- @fa[wifi] Operating |
-- @fa[lock] Security |
-- @fa[cheveron-right] Setup/Teardown |
-
+- Operating |
+- Security |
+- Setup/Teardown |
 ---
 ## Friday
 
