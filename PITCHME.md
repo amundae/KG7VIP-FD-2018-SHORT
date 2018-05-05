@@ -59,6 +59,14 @@
   </tr>
 </table>
 ---
+## Saturday
+<table>
+  <tr>
+    <td>6PM-7:30</td>
+    <td>Potluck</td>
+  </tr>
+</table>
+---
 ## Sunday
 <table>
   <tr class="fragment">
